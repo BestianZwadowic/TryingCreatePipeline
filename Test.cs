@@ -17,7 +17,7 @@ namespace CreatingPipeline
         }
 
         [Test]
-        public void Test1()
+        public void Test()
         {
 
             string entryUrl = "https://practicetestautomation.com/";
